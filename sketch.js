@@ -1,6 +1,5 @@
 var sketch = [];
 
-
 function setup() {
   createCanvas(1600,400);
 }
